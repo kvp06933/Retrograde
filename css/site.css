@@ -52,6 +52,13 @@ main>.container {
 .blue{
     color: blue;
 }
+.btn-teal {
+    background: #44bcc4;
+    color: #fff;
+}
+.border-teal {
+    border-color: #44bcc4!important;
+}
 .checklist>li>span>i {
     color: orange;
 }
